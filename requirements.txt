@@ -1,0 +1,12 @@
+# PDF Processing
+pytesseract>=0.3.10
+Pillow>=10.0.0
+pdf2image>=1.16.0
+
+# Table Extraction (optional but recommended)
+pdfplumber>=0.10.0
+camelot-py[cv]>=0.11.0
+
+# Excel Processing
+openpyxl>=3.1.0
+xlrd>=2.0.1
