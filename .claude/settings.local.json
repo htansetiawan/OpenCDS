@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(chmod:*)",
+      "Bash(tree:*)",
+      "Bash(python pdf_to_markdown.py:*)",
+      "Bash(pip install:*)",
+      "Bash(python xls_to_markdown.py:*)",
+      "Bash(xargs:*)",
+      "Bash(wc:*)",
+      "Bash(python tools/pdf_to_markdown.py:*)",
+      "Bash(python tools/xls_to_markdown.py:*)"
+    ]
+  }
+}
